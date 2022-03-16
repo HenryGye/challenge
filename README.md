@@ -39,6 +39,7 @@
 * [vite]: Version 2.8.0
 * [vue-router]: Version 3.5.3
 * [vuex]: Version 3.6.2
+* [BootstrapVue]: Version 2.21.2
 
 ### instalacion
 * instalar dependencias
