@@ -33,3 +33,15 @@
 * tabla blog
   - /api/blog
   - /api/blog/{id}
+
+## frontend
+* [vue]: Version 2.6.14
+* [vite]: Version 2.8.0
+* [vue-router]: Version 3.5.3
+* [vuex]: Version 3.6.2
+
+### instalacion
+* instalar dependencias
+  - npm install
+* levantar proyecto con vite
+  - npm run dev
