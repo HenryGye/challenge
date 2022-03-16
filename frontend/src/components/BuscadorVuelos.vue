@@ -65,7 +65,7 @@
             ><b-icon icon="search"></b-icon
           ></b-button>
         </b-form-group>
-        <b-form-group id="dp-l">
+        <b-form-group id="dp-l" v-if="this.$route.name === 'resultadosVuelos'">
           <b-button @click="limpiar" pill variant="outline-primary"
             ><b-icon icon="trash"></b-icon
           >Limpiar</b-button>
